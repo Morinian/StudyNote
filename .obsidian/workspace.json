@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "b4af38556c163b30",
+    "type": "split",
+    "children": [
+      {
+        "id": "354079ca60e3dfbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bb053c62266ee67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudos/Databricks/☁️Databricks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "586af8bbc7d3d293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudos/Databricks/☁️Databricks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "762672b31c38288b",
+    "type": "split",
+    "children": [
+      {
+        "id": "009fbe6a5b6f1ec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8715a01d28975039",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d11248239858e34d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8123570eaf5f637b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0dd4fd10da528d09",
+    "type": "split",
+    "children": [
+      {
+        "id": "948d7f1f635df41e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75a6db9d98b0c42f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estudos/Databricks/☁️Databricks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c5e6594d339b3cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Estudos/Databricks/☁️Databricks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9570d90193509131",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b2984393bd1053dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Estudos/Databricks/☁️Databricks.md"
+              }
+            }
+          },
+          {
+            "id": "d2befb2bd8731958",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "909b03fe4e4cb238",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "b2984393bd1053dd",
+  "lastOpenFiles": [
+    "Estudos/Databricks/☁️Databricks.md",
+    "Estudos/Python/Apache Spark.md",
+    "Estudos/Python",
+    "Estudos/Databricks",
+    "Estudos",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
