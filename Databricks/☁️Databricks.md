@@ -10,7 +10,7 @@ Analítica, unificada e aberta para construir implantar compartilhar e manter an
 
 Integra-se com clouds armazenamento e segurança em sua clouds account, e gerencia e implanta clouds infraestrutura em seu nome.
 
-Construído em cima do [[Apache Spark]] utilizando [[Cluster]]
+Construído em cima do [[PySpark]] utilizando [[Cluster]]
 ## Para que é utilizado o Databricks?
 
 Conectar suas fontes de dados a uma plataforma para processar, armazenar, compartilhar, analisar, modelar e monetizar dataset com soluções de BI a IA generativa.
