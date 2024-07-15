@@ -19,7 +19,7 @@ esse drive consegue fazer a distribuição
 Hadoop ele faz todas as operações de escrita no hd - lendo e escrevendo
 Spark (opensource) na memória RAM todos os passos que o Hadoop faz ele faz lendo a memória RAM comportamento laser (PREGUIÇOSO)
 
-tranformations ela não faz nada lea programa a execução 
+tranformations  - ela não faz nada le programa a execução 
 action - ele vai fazer a cadeia que programou 
 
 tranformation ele analisa o meta dados - planejamento

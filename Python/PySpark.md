@@ -1,24 +1,21 @@
+```python
+df.limit(10) # ele apenas planeja
+.explain() # mostrar qual o processo que ele montou - com true ele dá o plano logico
 
-df.limit(10) - ele apenas planeja
-.explain() - mostrar quyal o processo que ele montou - com true ele dá o plano logico
+.show() # criado para linha de comando do cmd
+.display() # leva a organização da tabela databricks
+.count() # contagem
+.printSchema() # Traz os tipos de cada coluna
+f.expr # cria uma expressão
+f.col # ele vetoriza
+.cast(StringType()) 
 
-.show() = criado para linha de comando do cmd
-.display() = leva a organização da tabela databricks
-.count()
-.printSchema() = vai trazer os tipos
-f.expr = cria uma expressão
-f.col = ele vetoriza
-.cast(StringType())=
-tabelas databricks = tabela parquet file
 
-groupBy() = faz um agrupamento
-parceiro .igg()´= permite que atribue funções
-row_num 
+groupBy() # faz um agrupamento
+parceiro .igg() #  permite que atribue funções
+```
 
 window functioon
-
-parquet = arquivo otimizado  ele é um arquivo inteligente ele pega os dados da tabela (deoende do motor row layout) pode salvo de 2 formas layout de coluna ou linha
-ele inditifica as loculnas e separa por grupos todas as linhas 
 
  Contar quantos ambiente por usuários  
 
