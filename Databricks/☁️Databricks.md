@@ -3,7 +3,8 @@
 ```ad-abstract
 title: O que é
 
-Plataforma global de LakeHouse na nuvem.
+Databricks é uma plataforma analítica unificada e aberta para construir, implantar, compartilhar e manter análises de dados de nível empresarial e soluções de IA em escala. A plataforma Databricks Data Intelligence integra-se com clouds armazenamento e segurança em sua clouds account, e gerencia e implanta clouds infraestrutura em seu nome.
+
 ```
 
 Analítica, unificada e aberta para construir implantar compartilhar e manter análises de dados.

@@ -1,6 +1,10 @@
 Repositório centralizado projetado para armazenar - processar - proteger  grandes quantidades de dados **estruturados, semiestruturados e não estruturados**.
 
+Utilizando uma arquitetura plana, tendo grande informações avançadas não estruturadas
+
 Estruturado com base no S3 e Unity Catalog do Databricks.
+
+![[DataLake.png]]
 
 	O S3 irá sustentar todo o armazenamento dos dados ainda no seu formato nativo e não estruturado - temporário ou permanente - presentes nas camadas transient e raw. Já o catálogo de dados no databricks, sustentará os dados estruturados e semiestruturados, sendo auto gerenciadas e manipuladas em formato de Delta Table.
 

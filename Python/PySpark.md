@@ -15,8 +15,6 @@ groupBy() # faz um agrupamento
 parceiro .igg() #  permite que atribue funções
 ```
 
-window functioon
-
  Contar quantos ambiente por usuários  
 
 ``` python
