@@ -7,6 +7,7 @@ Databricks é uma plataforma analítica unificada e aberta para construir, impla
 
 ```
 
+Documentação completa [Documentação da Databricks | Databricks on AWS](https://docs.databricks.com/pt/index.html)
 Analítica, unificada e aberta para construir implantar compartilhar e manter análises de dados.
 
 Integra-se com clouds armazenamento e segurança em sua clouds account, e gerencia e implanta clouds infraestrutura em seu nome.
