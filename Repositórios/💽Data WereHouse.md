@@ -8,7 +8,7 @@ Ele é projetado para dar suporte a tomadas de decisão baseadas em dados e forn
 
 ![[DataWereHouse.png]]
 
-Extract, transform and Load : ETL (extrai, transforma e carrega)
+Extract, transform and Load : [[Processo de ETL X ELT]] (extrai, transformar e carregar)
 
 Benefícios:
 - Melhora a padronização, qualidade e consistência dos dados
