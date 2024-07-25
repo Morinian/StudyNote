@@ -5,6 +5,7 @@ Junção das duas arquiteturas:
 Complexo de construir o LakeHouse do zero mas valendo seu investimento.
 Podendo ter os três tipos de [[Categoria de Dados]]
 
+![[LAKEHOUSEPLATFORM.png]]
 ## Características:
 
 - Camada de armazenamento para armazenar dados em formatos aberto 
