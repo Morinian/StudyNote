@@ -14,6 +14,7 @@ f.col # ele vetoriza
 groupBy() # faz um agrupamento
 parceiro .igg() #  permite que atribue funções
 ```
+append() **é útil para adicionar elementos a uma lista existente**
 
  Contar quantos ambiente por usuários  
 
