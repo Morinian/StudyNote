@@ -1,3 +1,5 @@
-Funcionalidades do [[☁️Databricks]]
+É uma estrutura ETL declarativa para a plataforma do [[☁️Databricks]]
 
-Delta Live Tables é um framework para criação de processos de ETL para facilitar todo o processo de injestão de dados. Em um projeto de engenharia de dados, a maior parte do tempo é gasto com infraestrutura, para resolver isso, as DLT abstraem essas definições de infraestrutura e então é possível focar apenas na modelagem e qualidade de dados.
+Delta Live Tables é um framework para criação de processos de ETL para facilitar todo o processo de ingestão de dados (Transformando em DRAGS para visualização) . Em um projeto de engenharia de dados, a maior parte do tempo é gasto com infraestrutura, para resolver isso, as DLT abstraem essas definições de infraestrutura e então é possível focar apenas na modelagem e qualidade de dados.
+
+As Tabelas Dinâmicas Delta são uma estrutura declarativa para a criação de pipelines de processamento de dados confiáveis, testáveis e de fácil manutenção. Você define as transformações a serem executadas nos dados e as Tabelas Dinâmicas Delta gerenciam a orquestração de tarefas, o gerenciamento de clusters, o monitoramento, a qualidade dos dados e o tratamento de erro.

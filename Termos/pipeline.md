@@ -1,0 +1,1 @@
+De forma resumida, um pipeline de dados, ou workflow, é responsável por executar uma série de scripts de forma ordenada, estabelecida no momento de sua criação, a fim de realizar a operação de ETL (Extract, Transform, Load), ou seja, extrair, processar e armazenar um conjunto de dados para que possa ser consumido pelos analistas de dados e cientistas de dados.

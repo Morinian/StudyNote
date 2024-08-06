@@ -41,7 +41,14 @@ append() **é útil para adicionar elementos a uma lista existente**
  )
  ```
 
- 
+ ```python
+
+df.gourpBy("coluna1","colunas2").count()
+
+df_estoque = spark.read.parquet("s3a://your-bucket-name/path/to/file.csv")
+
+
+```
 ## Iniciando Codificação
 -------------------------------
 	Versão completa do código está no meu notebook [PySpark](https://colab.research.google.com/drive/1dHjCre8JO661GDpxApJUZJQ1LNjEw6w1?authuser=1#scrollTo=uTYaZorZCZm3)
