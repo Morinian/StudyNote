@@ -7,5 +7,4 @@ Transformação e enriquecimento: em geral parte complexa, tendo limpeza organiz
 
 Carga e uso dos dados: Preciso fazer algo com os dados já enriquecidos, podemos armazenar para depois utilizar, já utilizar ou os dois. Normalmente etapa mais simples já que é mais sobre tomada de decisão para o uso dos dados.
 
-Armazenamento:
-
+Armazenamento: Dados precisam residir em algum local, pode ser um [[💽Data Lake]], [[💽Data LakeHouse]] ou entre outras opções.
