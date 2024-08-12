@@ -1,5 +1,0 @@
-De forma resumida, um pipeline de dados, é responsável por executar uma série de scripts de forma ordenada, estabelecida no momento de sua criação, a fim de realizar a operação de ETL (Extract, Transform, Load), ou seja, extrair, processar e armazenar um conjunto de dados para que possa ser consumido pelos analistas de dados e cientistas de dados.
-
-Pipeline é um passo a passo, é a representação de um processo que está dividido em fases para colocar a aplicação em produção. Como fazer a build do código, executar testes automatizados e a implantação em ambientes de teste e de produção
-
-Pipeline é um meio de mover dados de uma origem para um destino (DW/DL). Ao longo do caminho os dados são transformados e otimizados chegando a um estado em que podem ser analisar e usados para desenvolver insights de negócios.
