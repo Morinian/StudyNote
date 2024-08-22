@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "094fba62e1e07141",
+        "id": "d103980679b2c443",
         "type": "tabs",
         "children": [
           {
-            "id": "74a2f76b6239fdcf",
+            "id": "37fa14788811dfbd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conceitos/CI & CD.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/CI & CD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/CI & CD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Conceitos/CI & CD.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,10 +156,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74a2f76b6239fdcf",
+  "active": "37fa14788811dfbd",
   "lastOpenFiles": [
-    "Cloud/Arquitetura de Soluções.md",
     "Conceitos/Armazenamento.md",
+    "Conceitos/CI & CD.md",
+    "Cloud/Arquitetura de Soluções.md",
     "Databricks/☁️Databricks.md",
     "Databricks/Perguntas LakeHouse Platform.md",
     "Python/Apache Spark.md",
