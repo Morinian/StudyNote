@@ -64,8 +64,21 @@ Apagável a nível de byte e gravada eletronicamente
 Podendo atualizar 
 
 
+# Erros em memória
 
+Causas: falhas permanentes | Falhas não permanentes
+==Matemático criou um jeito de validar aquilo que foi salvo==
 
+Algoritmo de Hamming (1 bit de erro)
+Validar para não ter erro de armazenamento
+
+palavra 1 byte -> código de validação (sai uma chave e armazena isso e o numero) -> célula de memória -> código de validação -> comparador
+
+Ele faz o mesmo calculo podendo corrigir ele 
+par : 0
+impar: 1
+
+se a chave for incorreta com a do começo analisa a interseção e muda o valor 
 
 
 
