@@ -28,7 +28,66 @@
 - magnético
 - Optico 
 ## Características físicas
-- Volátil 
-- Não volátil apagável ou não 
+- Volátil: Tirar da tomada perdi tudo
+- Não volátil apagável ou não : Manter energia logo salva os dados
 ## Organização
 - Modulo de memorias
+
+# Visão geral
+
+Quanto mais barato -> mais espaço
+Quanto mais caro -> mais velocidade
+
+registrado | velocidada
+registrador -> Velocidade altíssima 
+CPU Cache -> do lado do processador-> Alta
+RAM -> fora do processador -> média
+memórias secundarias -> Baixa
+
+Interna : Acessível direto pelo processador
+Externa : Acessível pelo processador | Cloud 
+
+## Memória interna
+==Não volátil: não se perde ao deixar sem energia==
+
+### ROM (Somente leitura) 
+É a memória que controla os componentes da placa mãe, gravada diretamente da fábrica  - BIOS 
+
+## PROM 
+Passa para de gravar na fábrica e ser programável
+
+## EPROM
+Apagável a nível chip
+
+## EEPROM/ FLASH (Memory-pendrive)
+Apagável a nível de byte e gravada eletronicamente
+Podendo atualizar 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
