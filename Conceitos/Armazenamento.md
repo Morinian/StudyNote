@@ -19,3 +19,11 @@ Se o padrão de acesso é muito frequente, acessando de formas diferentes os dad
 Temos mais soluções em nosql na qual é orientado a performance e facilidade de uso
 
 **Armazenamento de arquivos**:Assim tendo o ponto do V de variedade no BigData, em formatos adversos podem não ser ideias em foco na performance de acesso com diferentes formatos e sistemas. Armazenar em ambiente distribuído ou em um único computador 
+
+# Armazenamento colunar x linha 
+
+![[baseadoemlinha.png]]
+Não é um formato pensado para performance, é fácil mas não ideal
+
+![[baseadoemcoluna.png]]
+001 índice que podemos fazer pesquisas, pode ser muito mais performático que em linha
