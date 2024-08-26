@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"5bd1cdf35db9b8c5","type":"file","file":"Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md","x":-340,"y":-200,"width":400,"height":400,"color":"1"},
+		{"id":"fc5729117430de54","type":"file","file":"Conceitos/Sistema_Armazenamento/💽Data Lake.md","x":80,"y":-40,"width":400,"height":400,"color":"5"},
+		{"id":"f5533f104d1d92ec","type":"file","file":"Conceitos/Sistema_Armazenamento/💽Data WereHouse.md","x":80,"y":-480,"width":400,"height":400,"color":"5"}
+	],
+	"edges":[]
+}
