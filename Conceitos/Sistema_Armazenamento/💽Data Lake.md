@@ -1,4 +1,10 @@
-Repositório centralizado projetado para armazenar - processar - proteger  grandes quantidades de dados **estruturados, semiestruturados e não estruturados**.
+
+> [!info] Sobre
+> Repositório centralizado projetado para armazenar - processar - proteger  grandes quantidades de dados **estruturados, semiestruturados e não estruturados**.
+> 
+> Permite armazenamento dos dados no seu formato bruto -> carrega, depois limpa e organiza, se não houver uma boa governança o datalake vira um problema e um risco.
+
+Projetado para lidar com ampla variedade de tipos de dados, no caso tendo mais invista o banco de dados NoSql ou armazenamento distribuido 
 
 Utilizando uma arquitetura plana, tendo grande informações avançadas não estruturadas
 
@@ -32,4 +38,12 @@ Para serem consumidos e já possuem garantias de [Data Quality](https://medium.
 ### Refined Zone
 
 Onde são aplicadas regras de negócio, geradas visões e conjuntos de dados a serem consumidos por outros sistemas.
+Em geral, um Data Lake é uma boa opção se você tiver grandes volumes de dados estruturados e não estruturados que precisa armazenar e processar em escala ou se precisar de um repositório centralizado para armazenar e processar dados de várias fontes.
+# Quando usar DL
 
+Existe vários motivos
+- Necessidade de armazenar e processar dados em sua forma bruta
+- Necessidade de armazenar e processar grandes volumes de dados
+- Necessidade de armazenar e processar dados estruturados e não estruturados
+- Necessidade de escalabilidade
+- Necessidade de um repositório de dados centralizado

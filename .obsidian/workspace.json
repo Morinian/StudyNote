@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
+                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 237.5
   },
   "right": {
     "id": "0dd4fd10da528d09",
@@ -80,12 +80,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "5f99343470bd3b74",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
             "id": "b2984393bd1053dd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md"
+                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md"
               }
             }
           },
@@ -94,14 +102,6 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "5f99343470bd3b74",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
               "state": {}
             }
           },
@@ -130,14 +130,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
+                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -147,9 +147,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
+                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -162,11 +162,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,16 +179,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8715a01d28975039",
+  "active": "28f14cd46e70d180",
   "lastOpenFiles": [
-    "Conceitos/Sistema_Armazenamento/Datas.canvas",
-    "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
+    "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
     "Conceitos/Armazenamento.md",
+    "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
+    "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
+    "Conceitos/🪡Pipeline.md",
+    "Termos/📄Parquet File.md",
+    "Conceitos/CI & CD.md",
+    "Conceitos/Workflows.md",
+    "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
+    "Conceitos/Sistema_Armazenamento/Datas.canvas",
     "Imagens/baseadoemcoluna.png",
     "Imagens/baseadoemlinha.png",
-    "Conceitos/🪡Pipeline.md",
     "Conceitos/Ciclo de vida da Engenharia de dados.md",
-    "Conceitos/CI & CD.md",
     "Cloud/Arquitetura de Soluções.md",
     "Databricks/☁️Databricks.md",
     "Databricks/Perguntas LakeHouse Platform.md",
