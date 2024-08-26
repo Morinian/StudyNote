@@ -20,7 +20,7 @@ Temos mais soluções em nosql na qual é orientado a performance e facilidade d
 
 **Armazenamento de arquivos**:Assim tendo o ponto do V de variedade no BigData, em formatos adversos podem não ser ideias em foco na performance de acesso com diferentes formatos e sistemas. Armazenar em ambiente distribuído ou em um único computador 
 
-# Armazenamento colunar x linha 
+# Colunar x Linha 
 
 ![[baseadoemlinha.png]]
 Não é um formato pensado para performance, é fácil mas não ideal
