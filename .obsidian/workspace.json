@@ -23,10 +23,11 @@
             "id": "81c90c894020bc90",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
+                "file": "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Conceitos/Sistema_Armazenamento/💽 Data Store.md"
+              }
             }
           },
           {
@@ -140,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -187,12 +192,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81c90c894020bc90",
+  "active": "28f14cd46e70d180",
   "lastOpenFiles": [
-    "Conceitos/🪡Pipeline.md",
     "Conceitos/Sistema_Armazenamento/Datas.canvas",
-    "Conceitos/Sistema_Armazenamento/Untitled.md",
     "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
+    "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
+    "Conceitos/🪡Pipeline.md",
     "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
     "Conceitos/Armazenamento.md",
     "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
