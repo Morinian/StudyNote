@@ -20,6 +20,12 @@ Temos mais soluções em nosql na qual é orientado a performance e facilidade d
 
 **Armazenamento de arquivos**:Assim tendo o ponto do V de variedade no BigData, em formatos adversos podem não ser ideias em foco na performance de acesso com diferentes formatos e sistemas. Armazenar em ambiente distribuído ou em um único computador 
 
+- Podem ser local ou em redes (NTFS, FAT, NAS, SAN)
+- Podem ser distribuídos (HDFS - Haddop Distributed File System, Object Storage)
+- Podem ser na nuvem (Amazon S3, Azure Blob Storage, Google Storage, Delta Lake)
+- O objetivo é armazenar dados em qualquer formato de arquivo (CSV, JSON, PARQUET, AVRO, ORC, etc)
+- Baixo custo geralmente
+
 # Colunar x Linha 
 
 ![[baseadoemlinha.png]]

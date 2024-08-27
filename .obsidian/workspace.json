@@ -23,11 +23,10 @@
             "id": "81c90c894020bc90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
-                "mode": "source",
-                "source": false
+                "file": "Databricks/Delta Live Table.md",
+                "staged": false
               }
             }
           }
@@ -105,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽 Data Store.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,14 +187,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28f14cd46e70d180",
+  "active": "81c90c894020bc90",
   "lastOpenFiles": [
+    "Conceitos/Armazenamento.md",
+    "Databricks/Delta Live Table.md",
+    "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
     "Conceitos/Sistema_Armazenamento/Datas.canvas",
     "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
-    "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
     "Conceitos/🪡Pipeline.md",
     "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
-    "Conceitos/Armazenamento.md",
     "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
     "Termos/📄Parquet File.md",
     "Conceitos/CI & CD.md",
