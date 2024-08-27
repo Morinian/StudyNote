@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "81c90c894020bc90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conceitos/🪡Pipeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md"
+                "file": "Conceitos/🪡Pipeline.md"
               }
             }
           },
@@ -130,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
+                "file": "Conceitos/🪡Pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
+                "file": "Conceitos/🪡Pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,18 +192,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28f14cd46e70d180",
+  "active": "81c90c894020bc90",
   "lastOpenFiles": [
+    "Conceitos/Sistema_Armazenamento/Datas.canvas",
+    "Conceitos/Sistema_Armazenamento/Untitled.md",
+    "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
     "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
     "Conceitos/Armazenamento.md",
-    "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
     "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
     "Conceitos/🪡Pipeline.md",
     "Termos/📄Parquet File.md",
     "Conceitos/CI & CD.md",
     "Conceitos/Workflows.md",
     "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
-    "Conceitos/Sistema_Armazenamento/Datas.canvas",
     "Imagens/baseadoemcoluna.png",
     "Imagens/baseadoemlinha.png",
     "Conceitos/Ciclo de vida da Engenharia de dados.md",
