@@ -2,7 +2,7 @@
 > CI/CD (integração contínua e entrega contínua) é uma abordagem de desenvolvimento de  software  em  que  todos  os  desenvolvedores  trabalham  juntos  em  um  repositório compartilhado de código e, à medida que as alterações são feitas, há um processo de build automatizado  para  detectar  problemas  de  código.  O  resultado  é  um  ciclo  de  vida  de desenvolvimento mais rápido e uma taxa de erro menor.
 
 
-Um [[🪡Pipeline]] de CI/CD automatiza os dois processos a seguir para um processo de entrega de software de ponta a ponta: Integração contínua para criação e teste de código automatizado. 
+Um [[🖇️Pipeline]] de CI/CD automatiza os dois processos a seguir para um processo de entrega de software de ponta a ponta: Integração contínua para criação e teste de código automatizado. 
 
 ## CI 
 A CI permite que os desenvolvedores enviem várias alterações para um repositório compartilhado ou repositório de código  principal,  mantendo  o  controle  de  versão.  Muitas  equipes  de  desenvolvimento  de software estão geograficamente dispersas ou isoladas, mas a CI permite um desenvolvimento rápido, evitando conflitos de mesclagem, bugs e duplicação. 

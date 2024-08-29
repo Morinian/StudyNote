@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
+                "file": "Conceitos/🖇️Pipeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md"
+                "file": "Conceitos/🖇️Pipeline.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
+                "file": "Conceitos/🖇️Pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
+                "file": "Conceitos/🖇️Pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,21 +179,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8715a01d28975039",
+  "active": "ded6f6403f0fd747",
   "lastOpenFiles": [
+    "Conceitos/Arquivos/📄Parquet File.md",
+    "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
     "Conceitos/Arquivos",
     "Programação/Python/Spark.md",
     "Programação/Python/PySpark.md",
     "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
     "Conceitos/Armazenamento.md",
     "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
-    "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
-    "Conceitos/🪡Pipeline.md",
+    "Conceitos/🖇️Pipeline.md",
     "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
     "Databricks/Delta Live Table.md",
     "Conceitos/Sistema_Armazenamento/Datas.canvas",
     "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
-    "Conceitos/Arquivos/📄Parquet File.md",
     "Conceitos/CI & CD.md",
     "Conceitos/Workflows.md",
     "Imagens/baseadoemcoluna.png",
