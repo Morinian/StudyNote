@@ -1,0 +1,2 @@
+São simples, fáceis e amplamente utilizado. Nada de especial é sem compressão, sem cabeçalhos built-in (como [[📄Parquet File]] e [[📄AVRO]]). 
+São fáceis de usar desde que o volume de dados não seja muito grande. 
