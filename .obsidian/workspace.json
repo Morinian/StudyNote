@@ -4,34 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2c982f39ed3256e4",
+        "id": "74380647219e9af0",
         "type": "tabs",
         "children": [
           {
-            "id": "c1dd0176658becf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81c90c894020bc90",
+            "id": "ded6f6403f0fd747",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Databricks/Delta Live Table.md",
+                "file": "Programação/Python/PySpark.md",
                 "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,20 +174,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81c90c894020bc90",
+  "active": "28f14cd46e70d180",
   "lastOpenFiles": [
-    "Conceitos/Armazenamento.md",
-    "Databricks/Delta Live Table.md",
+    "Programação/Python/Spark.md",
+    "Programação/Python/PySpark.md",
     "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
-    "Conceitos/Sistema_Armazenamento/Datas.canvas",
+    "Conceitos/Armazenamento.md",
+    "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
     "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
     "Conceitos/🪡Pipeline.md",
+    "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
+    "Databricks/Delta Live Table.md",
+    "Conceitos/Sistema_Armazenamento/Datas.canvas",
     "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
-    "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
     "Termos/📄Parquet File.md",
     "Conceitos/CI & CD.md",
     "Conceitos/Workflows.md",
-    "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
     "Imagens/baseadoemcoluna.png",
     "Imagens/baseadoemlinha.png",
     "Conceitos/Ciclo de vida da Engenharia de dados.md",
