@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Termos/Sistemas de arquivos Distribuídos.md",
-                "mode": "preview",
+                "file": "Faculdade/Quintas/Sistema Computacional.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Termos/Sistemas de arquivos Distribuídos.md"
+                "file": "Faculdade/Quintas/Sistema Computacional.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Termos/Sistemas de arquivos Distribuídos.md",
+                "file": "Faculdade/Quintas/Sistema Computacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Termos/Sistemas de arquivos Distribuídos.md",
+                "file": "Faculdade/Quintas/Sistema Computacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -206,38 +206,39 @@
   },
   "active": "26b276f0963264b1",
   "lastOpenFiles": [
+    "Conceitos/Ciclo de vida da Engenharia de dados.md",
+    "Conceitos/CI & CD.md",
+    "Conceitos/Armazenamento.md",
+    "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
+    "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
+    "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
+    "Faculdade/Quintas/Sistema Computacional.md",
+    "Databricks/Delta Sharing.md",
+    "Databricks/Delta Live Table.md",
+    "Databricks/☁️Databricks.md",
+    "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
+    "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
+    "Cloud/Arquitetura de Soluções.md",
+    "Carreira Dados/2.Cientista de Dados.md",
+    "Carreira Dados/1.Engenharia de Dados.md",
+    "Carreira Dados/0.Mundo de dados.md",
+    "Termos/Sistemas de arquivos Distribuídos.md",
     "Imagens/HSD.png",
     "Pasted image 20240830144621.png",
-    "Termos/Sistemas de arquivos Distribuídos.md",
-    "Cloud/Arquitetura de Soluções.md",
     "Conceitos/Arquivos/📄Parquet File.md",
     "Conceitos/Arquivos/📄ORC.md",
     "Conceitos/Arquivos/📄JSON.md",
     "Conceitos/Arquivos/📄CSV.md",
     "Conceitos/Arquivos/📄AVRO.md",
     "Conceitos/🖇️Pipeline.md",
-    "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
     "Conceitos/Arquivos",
     "Programação/Python/Spark.md",
     "Programação/Python/PySpark.md",
-    "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
-    "Conceitos/Armazenamento.md",
-    "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
-    "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
-    "Databricks/Delta Live Table.md",
     "Conceitos/Sistema_Armazenamento/Datas.canvas",
-    "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
-    "Conceitos/CI & CD.md",
     "Conceitos/Workflows.md",
     "Imagens/baseadoemcoluna.png",
     "Imagens/baseadoemlinha.png",
-    "Conceitos/Ciclo de vida da Engenharia de dados.md",
-    "Databricks/☁️Databricks.md",
-    "Databricks/Perguntas LakeHouse Platform.md",
-    "Python/Apache Spark.md",
-    "Termos/Cluster.md",
     "Termos",
-    "Estudos/Databricks/☁️Databricks.md",
     "Estudos/Python",
     "Estudos/Databricks",
     "Estudos"

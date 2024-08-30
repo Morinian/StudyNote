@@ -44,8 +44,13 @@ CPU Cache -> do lado do processador-> Alta
 RAM -> fora do processador -> média
 memórias secundarias -> Baixa
 
-Interna : Acessível direto pelo processador
-Externa : Acessível pelo processador | Cloud 
+## Endereçamento 
+
+Direto: acessa valor diretamente
+Indireto: ponteiro (podemos mandar alterar diretamente para main sem precisar dar return)
+
+**Interna** : Acessível direto pelo processado
+**Externa** : Acessível pelo processador | Cloud 
 
 ## Memória interna
 ==Não volátil: não se perde ao deixar sem energia==
