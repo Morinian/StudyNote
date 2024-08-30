@@ -46,11 +46,11 @@ memórias secundarias -> Baixa
 
 ## Endereçamento 
 
-Direto: acessa valor diretamente
-Indireto: ponteiro (podemos mandar alterar diretamente para main sem precisar dar return)
+**Direto**: acessa valor diretamente
+**Indireto**: ponteiro (podemos mandar alterar diretamente para main sem precisar dar return)
 
-**Interna** : Acessível direto pelo processado
-**Externa** : Acessível pelo processador | Cloud 
+**Interna** : Acessível direto pelo processado | Memoria RAM, Cache e registradores
+**Externa** : Acessível pelo processador | Cloud, HD, SDD, Pendrive
 
 ## Memória interna
 ==Não volátil: não se perde ao deixar sem energia==
