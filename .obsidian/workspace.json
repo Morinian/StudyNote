@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceitos/Arquivos/📄JSON.md",
+                "file": "Cloud/Arquitetura de Soluções.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26b276f0963264b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Termos/Sistemas de arquivos Distribuídos.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceitos/Arquivos/📄JSON.md"
+                "file": "Termos/Sistemas de arquivos Distribuídos.md"
               }
             }
           },
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Arquivos/📄JSON.md",
+                "file": "Termos/Sistemas de arquivos Distribuídos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Arquivos/📄JSON.md",
+                "file": "Termos/Sistemas de arquivos Distribuídos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,12 +204,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ded6f6403f0fd747",
+  "active": "26b276f0963264b1",
   "lastOpenFiles": [
-    "Conceitos/Arquivos/📄CSV.md",
+    "Imagens/HSD.png",
+    "Pasted image 20240830144621.png",
+    "Termos/Sistemas de arquivos Distribuídos.md",
+    "Cloud/Arquitetura de Soluções.md",
+    "Conceitos/Arquivos/📄Parquet File.md",
     "Conceitos/Arquivos/📄ORC.md",
     "Conceitos/Arquivos/📄JSON.md",
-    "Conceitos/Arquivos/📄Parquet File.md",
+    "Conceitos/Arquivos/📄CSV.md",
     "Conceitos/Arquivos/📄AVRO.md",
     "Conceitos/🖇️Pipeline.md",
     "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
@@ -215,17 +232,14 @@
     "Imagens/baseadoemcoluna.png",
     "Imagens/baseadoemlinha.png",
     "Conceitos/Ciclo de vida da Engenharia de dados.md",
-    "Cloud/Arquitetura de Soluções.md",
     "Databricks/☁️Databricks.md",
     "Databricks/Perguntas LakeHouse Platform.md",
     "Python/Apache Spark.md",
     "Termos/Cluster.md",
     "Termos",
     "Estudos/Databricks/☁️Databricks.md",
-    "Estudos/Python/Apache Spark.md",
     "Estudos/Python",
     "Estudos/Databricks",
-    "Estudos",
-    "Welcome.md"
+    "Estudos"
   ]
 }
