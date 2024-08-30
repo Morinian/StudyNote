@@ -49,6 +49,8 @@ memórias secundarias -> Baixa
 **Direto**: acessa valor diretamente
 **Indireto**: ponteiro (podemos mandar alterar diretamente para main sem precisar dar return)
 
+## Localização 
+
 **Interna** : Acessível direto pelo processado | Memoria RAM, Cache e registradores
 **Externa** : Acessível pelo processador | Cloud, HD, SDD, Pendrive
 
