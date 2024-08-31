@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -199,7 +199,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b2984393bd1053dd",
+  "active": "28f14cd46e70d180",
   "lastOpenFiles": [
     "Cloud/Arquitetura de Soluções.md",
     "Faculdade/Quintas/Sistema Computacional.md",
