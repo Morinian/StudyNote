@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Arquitetura de Soluções.md",
+                "file": "Faculdade/Quintas/Sistema Computacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,12 +23,8 @@
             "id": "26b276f0963264b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade/Quintas/Sistema Computacional.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -43,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,21 +199,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26b276f0963264b1",
+  "active": "b2984393bd1053dd",
   "lastOpenFiles": [
+    "Cloud/Arquitetura de Soluções.md",
+    "Faculdade/Quintas/Sistema Computacional.md",
     "Conceitos/Ciclo de vida da Engenharia de dados.md",
     "Conceitos/CI & CD.md",
     "Conceitos/Armazenamento.md",
     "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
     "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
     "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
-    "Faculdade/Quintas/Sistema Computacional.md",
     "Databricks/Delta Sharing.md",
     "Databricks/Delta Live Table.md",
     "Databricks/☁️Databricks.md",
     "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
     "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
-    "Cloud/Arquitetura de Soluções.md",
     "Carreira Dados/2.Cientista de Dados.md",
     "Carreira Dados/1.Engenharia de Dados.md",
     "Carreira Dados/0.Mundo de dados.md",
