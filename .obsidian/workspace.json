@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Termos/Sistemas de arquivos Distribuídos.md",
+                "file": "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Termos/Sistemas de arquivos Distribuídos.md"
+                "file": "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Termos/Sistemas de arquivos Distribuídos.md",
+                "file": "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Termos/Sistemas de arquivos Distribuídos.md",
+                "file": "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,10 +179,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28f14cd46e70d180",
+  "active": "b8cfbb03db124e60",
   "lastOpenFiles": [
-    "Faculdade/Quintas/Sistema Computacional.md",
     "Termos/Sistemas de arquivos Distribuídos.md",
+    "Faculdade/Quintas/Sistema Computacional.md",
     "Databricks/Delta Live Table.md",
     "Cloud/Arquitetura de Soluções.md",
     "Conceitos/Arquivos/📄Parquet File.md",
