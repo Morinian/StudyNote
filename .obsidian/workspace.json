@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ded6f6403f0fd747",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Arquitetura de Soluções.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26b276f0963264b1",
+            "id": "b8cfbb03db124e60",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,32 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b8cfbb03db124e60",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "2e22839c29fb33a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conceitos/Arquivos/📄Parquet File.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Termos/Sistemas de arquivos Distribuídos.md"
+              }
             }
           },
           {
@@ -164,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Termos/Sistemas de arquivos Distribuídos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Termos/Sistemas de arquivos Distribuídos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -211,14 +179,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b8cfbb03db124e60",
+  "active": "28f14cd46e70d180",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Faculdade/Quintas/Sistema Computacional.md",
     "Termos/Sistemas de arquivos Distribuídos.md",
-    "Imagens/HSD.png",
-    "Pasted image 20240830144621.png",
+    "Databricks/Delta Live Table.md",
     "Cloud/Arquitetura de Soluções.md",
     "Conceitos/Arquivos/📄Parquet File.md",
+    "conflict-files-obsidian-git.md",
+    "Imagens/HSD.png",
+    "Pasted image 20240830144621.png",
     "Conceitos/Arquivos/📄ORC.md",
     "Conceitos/Arquivos/📄JSON.md",
     "Conceitos/Arquivos/📄CSV.md",
@@ -232,7 +202,6 @@
     "Conceitos/Armazenamento.md",
     "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
     "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
-    "Databricks/Delta Live Table.md",
     "Conceitos/Sistema_Armazenamento/Datas.canvas",
     "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
     "Conceitos/CI & CD.md",
@@ -245,7 +214,6 @@
     "Python/Apache Spark.md",
     "Termos/Cluster.md",
     "Termos",
-    "Estudos/Databricks/☁️Databricks.md",
     "Estudos/Python",
     "Estudos/Databricks",
     "Estudos"
