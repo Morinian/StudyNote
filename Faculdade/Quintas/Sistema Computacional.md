@@ -44,8 +44,15 @@ CPU Cache -> do lado do processador-> Alta
 RAM -> fora do processador -> média
 memórias secundarias -> Baixa
 
-Interna : Acessível direto pelo processador
-Externa : Acessível pelo processador | Cloud 
+## Endereçamento 
+
+**Direto**: acessa valor diretamente
+**Indireto**: ponteiro (podemos mandar alterar diretamente para main sem precisar dar return)
+
+## Localização 
+
+**Interna** : Acessível direto pelo processado | Memoria RAM, Cache e registradores
+**Externa** : Acessível pelo processador | Cloud, HD, SDD, Pendrive
 
 ## Memória interna
 ==Não volátil: não se perde ao deixar sem energia==
@@ -80,7 +87,19 @@ impar: 1
 
 se a chave for incorreta com a do começo analisa a interseção e muda o valor 
 
+# Dispositivos E/S
 
+**Humano** : Construído para a comunicação com o usuário
+
+**Maquina** : Construído para comunicação com o equipamento
+
+## Técnicas
+
+E/S Programada: Dados trocados entre o processador e o modulo, processador espera até que o processo termine; Só faz o segundo pedido quando o outro lado executou.
+
+	E/S Controlada por interrupção: Dados trocados entre o processador e o modulo, interrompe o processador ao terminar o processo.
+
+Acesso direto a memória DMA: é capaz de imitar o processador assumindo o controle do barramento do sistema, rouba o ciclo que não estão em uso.
 
 
 

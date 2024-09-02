@@ -32,6 +32,17 @@
             }
           },
           {
+            "id": "b8cfbb03db124e60",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              }
+            }
+          },
+          {
             "id": "2e22839c29fb33a8",
             "type": "leaf",
             "state": {
@@ -44,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Termos/Sistemas de arquivos Distribuídos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Termos/Sistemas de arquivos Distribuídos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Termos/Sistemas de arquivos Distribuídos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,11 +211,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26b276f0963264b1",
+  "active": "b8cfbb03db124e60",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Termos/Sistemas de arquivos Distribuídos.md",
     "Imagens/HSD.png",
     "Pasted image 20240830144621.png",
-    "Termos/Sistemas de arquivos Distribuídos.md",
     "Cloud/Arquitetura de Soluções.md",
     "Conceitos/Arquivos/📄Parquet File.md",
     "Conceitos/Arquivos/📄ORC.md",
