@@ -47,3 +47,13 @@ Existe vários motivos
 - Necessidade de armazenar e processar dados estruturados e não estruturados
 - Necessidade de escalabilidade
 - Necessidade de um repositório de dados centralizado
+
+## Como implementar?
+1. Identificar os Requisitos
+2. Escolher uma plataforma
+3. Integração - ELT
+4. Armazenamento
+5. Agendamentos - configurar as atualizações 
+6. Acesso - fornecer acesso aos dados do DL
+7. Governança de Dados
+8. Monitoramento

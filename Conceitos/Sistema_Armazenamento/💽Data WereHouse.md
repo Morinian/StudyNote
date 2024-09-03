@@ -35,7 +35,7 @@ Mais amplamente usada no [[armazenamento]] de dados projetado para consultas e a
 
 1. Identificar os requisitos
 2. Projeto e Arquitetura
-3. Integração
+3. Integração - ETL
 4. Construir o DW
 5. Carga de dados
 6. Agendar atualizações

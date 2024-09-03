@@ -11,10 +11,11 @@
             "id": "b8cfbb03db124e60",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Conceitos/Armazenamento.md",
-                "staged": false
+                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md"
+              }
             }
           },
           {
@@ -127,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,6 +182,9 @@
   "active": "b8cfbb03db124e60",
   "lastOpenFiles": [
     "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
+    "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
+    "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
+    "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
     "Programação/Python/Spark.md",
     "Pasted image 20240903102735.png",
     "Programação/Python/PySpark.md",
@@ -194,10 +202,7 @@
     "Conceitos/Arquivos/📄JSON.md",
     "Conceitos/Arquivos/📄CSV.md",
     "Conceitos/Arquivos/📄AVRO.md",
-    "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
     "Conceitos/Arquivos",
-    "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
-    "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
     "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
     "Conceitos/Sistema_Armazenamento/Datas.canvas",
     "Conceitos/CI & CD.md",
