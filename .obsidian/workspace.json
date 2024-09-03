@@ -11,11 +11,10 @@
             "id": "b8cfbb03db124e60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
-                "mode": "source",
-                "source": false
+                "file": "Conceitos/Armazenamento.md",
+                "staged": false
               }
             }
           }
@@ -92,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -181,8 +176,14 @@
   },
   "active": "b8cfbb03db124e60",
   "lastOpenFiles": [
-    "Termos/Sistemas de arquivos Distribuídos.md",
+    "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
+    "Programação/Python/Spark.md",
+    "Pasted image 20240903102735.png",
+    "Programação/Python/PySpark.md",
     "Faculdade/Quintas/Sistema Computacional.md",
+    "Conceitos/Armazenamento.md",
+    "Conceitos/🖇️Pipeline.md",
+    "Termos/Sistemas de arquivos Distribuídos.md",
     "Databricks/Delta Live Table.md",
     "Cloud/Arquitetura de Soluções.md",
     "Conceitos/Arquivos/📄Parquet File.md",
@@ -193,17 +194,12 @@
     "Conceitos/Arquivos/📄JSON.md",
     "Conceitos/Arquivos/📄CSV.md",
     "Conceitos/Arquivos/📄AVRO.md",
-    "Conceitos/🖇️Pipeline.md",
     "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
     "Conceitos/Arquivos",
-    "Programação/Python/Spark.md",
-    "Programação/Python/PySpark.md",
     "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
-    "Conceitos/Armazenamento.md",
     "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
     "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
     "Conceitos/Sistema_Armazenamento/Datas.canvas",
-    "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
     "Conceitos/CI & CD.md",
     "Conceitos/Workflows.md",
     "Imagens/baseadoemcoluna.png",
@@ -212,7 +208,6 @@
     "Databricks/☁️Databricks.md",
     "Databricks/Perguntas LakeHouse Platform.md",
     "Python/Apache Spark.md",
-    "Termos/Cluster.md",
     "Termos",
     "Estudos/Python",
     "Estudos/Databricks",
