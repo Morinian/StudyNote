@@ -11,23 +11,10 @@
             "id": "ded6f6403f0fd747",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Conceitos/Arquivos/📄JSON.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e22839c29fb33a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conceitos/Arquivos/📄Parquet File.md",
-                "mode": "source",
-                "source": false
+                "file": "Programação/Python/PySpark.md",
+                "staged": false
               }
             }
           }
@@ -104,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Conceitos/Arquivos/📄JSON.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Arquivos/📄JSON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Arquivos/📄JSON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,34 +165,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ded6f6403f0fd747",
+  "active": "28f14cd46e70d180",
   "lastOpenFiles": [
-    "Conceitos/Arquivos/📄CSV.md",
+    "Conceitos/🖇️Pipeline.md",
+    "Conceitos/Arquivos/📄Parquet File.md",
     "Conceitos/Arquivos/📄ORC.md",
     "Conceitos/Arquivos/📄JSON.md",
-    "Conceitos/Arquivos/📄Parquet File.md",
+    "Conceitos/Arquivos/📄CSV.md",
     "Conceitos/Arquivos/📄AVRO.md",
-    "Conceitos/🖇️Pipeline.md",
-    "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
     "Conceitos/Arquivos",
     "Programação/Python/Spark.md",
     "Programação/Python/PySpark.md",
     "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
     "Conceitos/Armazenamento.md",
     "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
+    "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
+    "Conceitos/🪡Pipeline.md",
     "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
     "Databricks/Delta Live Table.md",
     "Conceitos/Sistema_Armazenamento/Datas.canvas",
     "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
+    "Termos/📄Parquet File.md",
     "Conceitos/CI & CD.md",
     "Conceitos/Workflows.md",
     "Imagens/baseadoemcoluna.png",
@@ -222,10 +207,8 @@
     "Termos/Cluster.md",
     "Termos",
     "Estudos/Databricks/☁️Databricks.md",
-    "Estudos/Python/Apache Spark.md",
     "Estudos/Python",
     "Estudos/Databricks",
-    "Estudos",
-    "Welcome.md"
+    "Estudos"
   ]
 }
