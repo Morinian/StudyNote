@@ -30,3 +30,16 @@ Mais amplamente usada no [[armazenamento]] de dados projetado para consultas e a
 - Necessidade de integrar dados de várias fontes
 - Necessidade de oferecer suporte á inteligência de negócio
 - Necessidade de dados históricos
+
+## Como implementar?
+
+1. Identificar os requisitos
+2. Projeto e Arquitetura
+3. Integração - ETL
+4. Construir o DW
+5. Carga de dados
+6. Agendar atualizações
+7. Acesso e Segurança
+8. Monitoramento
+9. Usar Data Marts - DW departamentais em geral com volume de dados menor
+10. Manutenção do modelo de dados

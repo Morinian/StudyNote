@@ -3,6 +3,8 @@ O [[Spark]] surgiu como um projeto de pesquisa - 2009
 "Spark: [[Cluster]] Computing With Working Sets"
 	Matei Zahara
 
+![[Pasted image 20240903102735.png]]
+
 O Apache Spark é uma engine de computação unificada e um conjunto de bibliotecas para processamento de dados paralelos em clusters de computadores.
 
 ```ad-info

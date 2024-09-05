@@ -17,8 +17,20 @@
                 "staged": false
               }
             }
+          },
+          {
+            "id": "d6a001f3a66f6769",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,8 +186,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28f14cd46e70d180",
+  "active": "d6a001f3a66f6769",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Termos/Sistemas de arquivos Distribuídos.md",
+    "Pasted image 20240903102735.png",
+    "Imagens/HSD.png",
     "Conceitos/🖇️Pipeline.md",
     "Conceitos/Arquivos/📄Parquet File.md",
     "Conceitos/Arquivos/📄ORC.md",
@@ -204,9 +220,7 @@
     "Databricks/☁️Databricks.md",
     "Databricks/Perguntas LakeHouse Platform.md",
     "Python/Apache Spark.md",
-    "Termos/Cluster.md",
     "Termos",
-    "Estudos/Databricks/☁️Databricks.md",
     "Estudos/Python",
     "Estudos/Databricks",
     "Estudos"
