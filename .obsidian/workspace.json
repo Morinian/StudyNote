@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
+                "file": "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md"
+                "file": "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
+                "file": "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
+                "file": "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -181,9 +181,9 @@
   },
   "active": "b8cfbb03db124e60",
   "lastOpenFiles": [
+    "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
     "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
     "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
-    "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
     "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
     "Programação/Python/Spark.md",
     "Pasted image 20240903102735.png",
