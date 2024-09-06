@@ -11,10 +11,11 @@
             "id": "b8cfbb03db124e60",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Conceitos/Sistema_Armazenamento/💽 Data Store.md"
+              }
             }
           },
           {
@@ -127,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,12 +181,13 @@
   },
   "active": "b8cfbb03db124e60",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Pasted image 20240903102735.png",
-    "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
     "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
     "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
     "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
+    "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
+    "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20240903102735.png",
     "Programação/Python/Spark.md",
     "Programação/Python/PySpark.md",
     "Faculdade/Quintas/Sistema Computacional.md",
@@ -198,7 +204,6 @@
     "Conceitos/Arquivos/📄CSV.md",
     "Conceitos/Arquivos/📄AVRO.md",
     "Conceitos/Arquivos",
-    "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
     "Conceitos/Sistema_Armazenamento/Datas.canvas",
     "Conceitos/CI & CD.md",
     "Conceitos/Workflows.md",

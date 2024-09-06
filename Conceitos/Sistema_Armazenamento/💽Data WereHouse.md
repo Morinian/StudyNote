@@ -17,9 +17,19 @@ Benefícios:
 - Aumenta o poder e a velocidade das cargas de trabalho de análise de dados e BI
 - melhora o processo geral de tomada de decisão
 
+- Dados estruturados e limpos facilita a analise e geração de relatórios
+- Performance de consultar e relatórios é geralmente melhor devido a otimização de dos dados
+- Governança de dados mais robusta
+- Maior capacidade de suportar demandar
+
 Desvantagens:
 - Falta de flexibilidade de dados 
 - Altos custos de implementação e manutenção regular
+
+- Complexo de implementar e manter
+- Exige um processo de limpeza e modelagem de dados rigoroso
+- Restringe a capacidade de armazenar grande volumes de dados não estruturados 
+- Pode ser limitado em lidar com dados em tempo real ou com fontes dinâmicas e não estruturadas 
 
 ## Quando usar um DW
 
