@@ -57,3 +57,17 @@ Existe vários motivos
 6. Acesso - fornecer acesso aos dados do DL
 7. Governança de Dados
 8. Monitoramento
+
+## Benefícios 
+
+- Capaz de armazenar grandes volumes não estruturados e semi
+- Flexível para lidar com diferentes formatos e fontes
+- Escalável para lidar com grandes volumes
+- Permite analise avançadas
+
+## Desvantagem
+
+- Governança de dados menos robusta do que DW
+- Performance de consultas e relatórios pode ser menor devido a falta de otimização de dados 
+- Pode ser caro e complexo de implementar e manter
+- Depende de ferramentas adicionais para limpeza e modelagem de dados antes da análise 
