@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
+                "file": "Carreira Dados/1.Engenharia de Dados.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "283518879c4fe779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conceitos/Data/Data Quality.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md"
+                "file": "Conceitos/Data/Data Quality.md"
               }
             }
           },
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
+                "file": "Conceitos/Data/Data Quality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
+                "file": "Conceitos/Data/Data Quality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,12 +204,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b458a97b18b8d31b",
+  "active": "283518879c4fe779",
   "lastOpenFiles": [
+    "Carreira Dados/1.Engenharia de Dados.md",
+    "Conceitos/Data/Data Quality.md",
+    "Conceitos/Data",
+    "Carreira Dados/0.Mundo de dados.md",
+    "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
     "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
     "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
     "conflict-files-obsidian-git.md",
-    "Carreira Dados/0.Mundo de dados.md",
     "Programação/Python/Python.md",
     "Imagens/tipospy.png",
     "Imagens/PandavsPyspark.png",
@@ -207,10 +223,8 @@
     "Carreira Dados/2.Cientista de Dados.md",
     "Cloud/Arquitetura de Soluções.md",
     "Conceitos/Processos/Processo de ETL X ELT.md",
-    "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
     "Conceitos/🖇️Pipeline.md",
     "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
-    "Carreira Dados/1.Engenharia de Dados.md",
     "Pasted image 20240903102735.png",
     "Programação/Python/Spark.md",
     "Programação/Python/PySpark.md",
@@ -226,7 +240,6 @@
     "Conceitos/Arquivos/📄CSV.md",
     "Conceitos/Arquivos/📄AVRO.md",
     "Conceitos/Arquivos",
-    "Conceitos/Sistema_Armazenamento/☁️Perguntas LakeHouse Platform.md",
     "Conceitos/Sistema_Armazenamento/Datas.canvas",
     "Imagens/baseadoemcoluna.png",
     "Imagens/baseadoemlinha.png",
