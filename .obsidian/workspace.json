@@ -11,10 +11,11 @@
             "id": "b8cfbb03db124e60",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Carreira Dados/0.Mundo de dados.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Carreira Dados/0.Mundo de dados.md"
+              }
             }
           },
           {
@@ -127,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Carreira Dados/0.Mundo de dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Carreira Dados/0.Mundo de dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,20 +181,24 @@
   },
   "active": "b8cfbb03db124e60",
   "lastOpenFiles": [
+    "Carreira Dados/2.Cientista de Dados.md",
+    "Cloud/Arquitetura de Soluções.md",
+    "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
+    "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
+    "Conceitos/Processos/Processo de ETL X ELT.md",
+    "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
+    "Conceitos/🖇️Pipeline.md",
+    "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
+    "Carreira Dados/1.Engenharia de Dados.md",
+    "Carreira Dados/0.Mundo de dados.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20240903102735.png",
-    "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
-    "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
-    "Conceitos/Sistema_Armazenamento/💽Data WereHouse.md",
-    "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
     "Programação/Python/Spark.md",
     "Programação/Python/PySpark.md",
     "Faculdade/Quintas/Sistema Computacional.md",
     "Conceitos/Armazenamento.md",
-    "Conceitos/🖇️Pipeline.md",
     "Termos/Sistemas de arquivos Distribuídos.md",
     "Databricks/Delta Live Table.md",
-    "Cloud/Arquitetura de Soluções.md",
     "Conceitos/Arquivos/📄Parquet File.md",
     "Imagens/HSD.png",
     "Pasted image 20240830144621.png",
@@ -205,9 +214,6 @@
     "Imagens/baseadoemcoluna.png",
     "Imagens/baseadoemlinha.png",
     "Conceitos/Ciclo de vida da Engenharia de dados.md",
-    "Databricks/☁️Databricks.md",
-    "Databricks/Perguntas LakeHouse Platform.md",
-    "Python/Apache Spark.md",
     "Termos",
     "Estudos/Python",
     "Estudos/Databricks",
