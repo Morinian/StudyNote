@@ -12,3 +12,11 @@ Podendo ter os três tipos de [[Categoria de Dados]]
 - Camada de computação
 - Camada de APIs 
 - Camada de serviço
+
+## Como implementar
+- Identificar os requisitos
+- Escolher uma plataforma - nasceu no ambiente de nuvem e plataformas
+- Integração de dados 
+- Armazenamento
+
+
