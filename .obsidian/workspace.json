@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceitos/Data/Data Quality.md",
+                "file": "Databricks/Serveless.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceitos/Data/Data Quality.md"
+                "file": "Databricks/Serveless.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Data/Data Quality.md",
+                "file": "Databricks/Serveless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Data/Data Quality.md",
+                "file": "Databricks/Serveless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -206,10 +206,15 @@
   },
   "active": "283518879c4fe779",
   "lastOpenFiles": [
+    "Databricks/Delta Sharing.md",
+    "Databricks/Serveless.md",
+    "Databricks/Delta Live Table.md",
+    "Databricks/☁️Databricks.md",
+    "Faculdade/Quintas/Sistema Computacional.md",
+    "Carreira Dados/0.Mundo de dados.md",
     "Carreira Dados/1.Engenharia de Dados.md",
     "Conceitos/Data/Data Quality.md",
     "Conceitos/Data",
-    "Carreira Dados/0.Mundo de dados.md",
     "Conceitos/Sistema_Armazenamento/💽Data LakeHouse.md",
     "Conceitos/Sistema_Armazenamento/💽Data Lake.md",
     "Conceitos/Sistema_Armazenamento/💽 Data Store.md",
@@ -228,17 +233,12 @@
     "Pasted image 20240903102735.png",
     "Programação/Python/Spark.md",
     "Programação/Python/PySpark.md",
-    "Faculdade/Quintas/Sistema Computacional.md",
     "Conceitos/Armazenamento.md",
     "Termos/Sistemas de arquivos Distribuídos.md",
-    "Databricks/Delta Live Table.md",
     "Conceitos/Arquivos/📄Parquet File.md",
     "Imagens/HSD.png",
     "Pasted image 20240830144621.png",
     "Conceitos/Arquivos/📄ORC.md",
-    "Conceitos/Arquivos/📄JSON.md",
-    "Conceitos/Arquivos/📄CSV.md",
-    "Conceitos/Arquivos/📄AVRO.md",
     "Conceitos/Arquivos",
     "Conceitos/Sistema_Armazenamento/Datas.canvas",
     "Imagens/baseadoemcoluna.png",
