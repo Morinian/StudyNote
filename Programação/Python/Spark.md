@@ -90,14 +90,14 @@ Spark é uma estrtura de código aberto focada em consultas interativas de machi
 
 # Quais os beneficios do apache spark 
 
-## Rapido
+### Rapido
 - Por meio do aramazenamento em cache na memória e execução otimizada de consultas, o spark pode oferecer consultas analiticas rapidas de dados de qualquer tamanho
 
-## Para desenvolvedores 
+### Para desenvolvedores 
 - O spark sustenta de modo nativo Java, Scala, e python. Oferencendo a você varias linguagens para criação de aplicativos. Essas APIS facilitam as coisas para seus desenvolvedores, pois ocultam a complexidade do processamento distriuido por trás de operadores simples e de alto nível que reduzem drasticamente a quantidade de código necessária
 
-## Várias workloads
--o Spark vem com a capacidade de executar várias workloads incluindo consultas interativas analises em tempo real, machine learnin e processam,ento de gráficos. Uma palicação pode combinar várias workloads facilmente
+### Várias workloads
+- o Spark vem com a capacidade de executar várias workloads incluindo consultas interativas analises em tempo real, machine learnin e processam,ento de gráficos. Uma palicação pode combinar várias workloads facilmente
 
 # O que são workloads do apache spark
 
