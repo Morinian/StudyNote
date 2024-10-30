@@ -62,7 +62,7 @@ Quando se faz um programa spark essa operação é traduzida para um plano de ex
 O spark cria um objeto chamado Dag Scheduler, que armazena a sequência presente no Lineage. Com essas informações, o Spark divide as tarefas entre os diferentes Workers para serem executadas.
 
 ![[arq_spark.png]]
-### Hadoop x Spark
+# Hadoop x Spark
 
 Ele surgiu a partir da ideia do Hadoop ==Criado a partir de ambientes distribuídos== esse drive consegue fazer a distribuição.
 
@@ -81,4 +81,31 @@ Hadoop MapReduce:
 Apache Spark:
 - Armazena o resultado das operações parciais em memória e finais em disco (esse último configurável).
 - Paradigma de desenvolvimento Map Reduce entre outros
+
+Além das diferenças no desing do spark e do hadoop MR muitas organizações descobriram que essas estruturas de big data são complementares usando as juntas para resolver um desafio comercial mais amplo 
+
+o hadoop é uma estrutura de código aberto que tem o sistema de arquivos Distribuído do Hadoop como armazenamento o Yarn como forma de gerenciar recursos de computação usados por diferente aplicações e a implementação do modelo de programação típica do Hadoop, diferentes mecanismos de execução também são implantados como Spark, tez e presto.
+
+Spark é uma estrtura de código aberto focada em consultas interativas de machine learning e workloads em tempo real não tem seu próprio sistema de armazenamento mas executa análises em outros sistemas de armazenamento como HDFS ou em outras lojas populates como Amazon, Redshift, Amazon S3, couchhbasem, Cassandra e outras. O spark no hadoop aproveita o Yarn para compartilhar um cluster e um conjunto de dados comund como outros mecanismos do Hadoop garantindo níveis consistentes de serviço e resposta
+
+# Quais os beneficios do apache spark 
+
+## Rapido
+- Por meio do aramazenamento em cache na memória e execução otimizada de consultas, o spark pode oferecer consultas analiticas rapidas de dados de qualquer tamanho
+
+## Para desenvolvedores 
+- O spark sustenta de modo nativo Java, Scala, e python. Oferencendo a você varias linguagens para criação de aplicativos. Essas APIS facilitam as coisas para seus desenvolvedores, pois ocultam a complexidade do processamento distriuido por trás de operadores simples e de alto nível que reduzem drasticamente a quantidade de código necessária
+
+## Várias workloads
+-o Spark vem com a capacidade de executar várias workloads incluindo consultas interativas analises em tempo real, machine learnin e processam,ento de gráficos. Uma palicação pode combinar várias workloads facilmente
+
+# O que são workloads do apache spark
+
+A estrutura do Spark inclui:
+- Spark Core como base para a plataforma
+- Spark SQL para consultas interativas
+- Spark Streaming para análises em tempo real
+- Spark MLlib para machine learning
+- Spark GraphX para processamento de gráficos
+
 
