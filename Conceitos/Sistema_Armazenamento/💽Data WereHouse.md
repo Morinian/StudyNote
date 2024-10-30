@@ -7,6 +7,8 @@ Repositório de dados unificado para armazenar grandes quantidades de informaç�
 Ele é projetado para dar suporte a tomadas de decisão baseadas em dados e fornecer insights valiosos para impulsionar estratégias de negócios.
 Banco de dados projetado especificamente para consultas e análises eficientes de grandes quantidades de dados de várias fontes, é um conceito com sql/nosql no formato [[Armazenamento#Colunar x Linha]].
 
+O data warehousing inaugurou a primeira era da análise escalável, com novos bancos de dados de processamento paralelo massivo (MPP) que usam vários processadores para processar grandes quantidades de dados que chegam ao mercado e suportam volumes de dados sem precedentes. Funções como engenheiro de BI, desenvolvedor de ETL e engenheiro de data warehouse atenderam às várias necessidades do data warehouse.
+
 ![[DataWereHouse.png]]
 
 Extract, transform and Load : [[Processo de ETL X ELT]] (extrai, transformar e carregar)
